@@ -1,0 +1,24 @@
+{
+  "name": "thecolorgame-master",
+  "version": "1.0.0",
+  "description": "A simple game made with JS",
+  "main": "thecolorgame.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renedlc159/SimpleJSColorsGame.git"
+  },
+  "keywords": [
+    "Color",
+    "Game",
+    "JS"
+  ],
+  "author": "ReneDLC159",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renedlc159/SimpleJSColorsGame/issues"
+  },
+  "homepage": "https://github.com/renedlc159/SimpleJSColorsGame#readme"
+}
