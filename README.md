@@ -11,4 +11,6 @@ Just click inside the NEW GAME button once you've won or NEW COLORS if you just 
 
 ENJOY!
 
-This game was developed tr
+This game was developed through the Udemy course: https://www.udemy.com/course/the-web-developer-bootcamp/
+
+THANKS A LOT COLT!
